@@ -1,0 +1,9 @@
+baseURL = "https://erwinweb.github.io/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+
+[languages.en.post]
+    [[languages.en.post.main]]
+        identifier = "postingan"
+        name = "Tentang"
+        url = "/post"
